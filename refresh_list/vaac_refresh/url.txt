@@ -1,0 +1,11 @@
+﻿ 登录：http://exchang.dev1.xsl.ph/api/json/user/login.do
+　GET 参数：	phone:手机号
+		imgCode:图片验证码
+		password:密码(需要MD5加密)
+下单：http://exchang.dev1.xsl.ph/api/json/user/torder.do
+ POST 参数：orderPrice：订单价格
+	　　orderQty：订单数量
+	　　orderType：订单类型　现在都是１
+	　　contractType：交易类型（７１，７２，７３等）
+	　passwd：交易密码(md5加密）
+	　bsFlag：买卖标识１＝买，２＝卖

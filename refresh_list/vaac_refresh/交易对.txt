@@ -1,0 +1,21 @@
+ public static final byte BTC_ETH = 71;
+    public static final byte BTC_LTC = 72;
+    public static final byte BTC_XRP = 73;
+    public static final byte BTC_VAAC = 74;
+    public static final byte BTC_CSC = 75;
+    public static final byte BTC_CFC = 76;
+    public static final byte BTC_NLC = 77;
+    public static final byte BTC_FTCT = 78;
+    public static final byte BTC_DOGE = 79;
+    public static final byte BTC_SWTC = 80;
+
+    public static final byte ETH_BTC = 91;
+    public static final byte ETH_LTC = 92;
+    public static final byte ETH_XRP = 93;
+    public static final byte ETH_VAAC = 94;
+    public static final byte ETH_CSC = 95;
+    public static final byte ETH_CFC = 96;
+    public static final byte ETH_NLC = 97;
+    public static final byte ETH_FTCT = 98;
+    public static final byte ETH_DOGE = 99;
+    public static final byte ETH_SWTC = 100;
